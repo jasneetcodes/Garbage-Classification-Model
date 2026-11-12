@@ -13,5 +13,5 @@ numpy
 # Metrics / evaluation
 scikit-learn
 
-# Notebook / plotting (used in results.ipynb)
+# Notebook 
 matplotlib
